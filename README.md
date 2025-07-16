@@ -47,8 +47,8 @@ my-todo-app/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd my-todo-app
+    git clone https://github.com/chayanika-barman/toDoList.git
+    cd toDoList
     ```
 
 2.  **Install dependencies:**
